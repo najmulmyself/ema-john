@@ -12,7 +12,7 @@ const Product = (props) => {
                 <h4>{name}</h4>
                 <p><small>By: {seller}</small></p>
                 <p><small>${price}</small></p>
-                <p>Only {stock} copy in Stock - Order Soon </p>
+                <p>Only {stock} left in Stock - Order Soon </p>
             </div>
         </div>
         
